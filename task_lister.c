@@ -13,7 +13,7 @@
 #define MAX_TASKS 5000
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Your Name");
+MODULE_AUTHOR("OS");
 MODULE_DESCRIPTION("Linux Kernel Task Lister - Traverses and displays all active processes");
 MODULE_VERSION("1.0");
 
