@@ -14,7 +14,7 @@
 #define MAX_LOG_ENTRIES 1000
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Your Name");
+MODULE_AUTHOR("OS");
 MODULE_DESCRIPTION("System Call Tracer with Filtering");
 
 // Structure to store syscall log entries
